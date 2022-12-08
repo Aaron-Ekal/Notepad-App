@@ -1,7 +1,7 @@
 # Notepad
 
 #### A Simple Notepad App
-![Landing page screenshot](static/img/ds.png "NotePad")
+![Landing page screenshot](static/img/ds1.png "NotePad")
 
 ## Description
 
